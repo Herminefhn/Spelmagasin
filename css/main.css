@@ -1,0 +1,40 @@
+
+      html {
+        height: 100%;
+        margin: 0;
+        background-image: url("../img/bakgrundf.jpg");
+        background-position: center ;
+        background-repeat: no-repeat;
+        background-size:cover;
+      }
+
+.center{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+
+    
+}  
+
+
+
+
+
+.button1 {
+    border-radius: 8px;
+    font-size: 25px;
+}
+
+.button2 {
+    border-radius: 8px;
+    font-size: 25px;
+}
+
+.button3 {
+    border-radius: 8px;
+    font-size: 25px;
+}
+    
