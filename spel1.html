@@ -8,16 +8,57 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Document</title>
+    <title>Hangman</title>
 
     <link rel="stylesheet" href="css/main.css">
-
+    <link rel="stylesheet" href="css/spel1.css">
+    <script src="js/word-list.js" defer> </script>
+    <script src="js/hangman.js" defer> </script>
 </head>
 
 
 <body>
+    <div class="game-modal">
+        <div class="content">
 
-    
+            <img src="img/images/lost.gif" alt="gif">
+            <h4>Du tapte!</h4>
+            <p>Rett svar var: <b>rainbow</b></p>
+            <button class="play-again">Spel igjen</button>
+
+        </div>
+    </div>
+
+    <div class="container">
+
+        <div class="hangman-box">
+            <img src="img/images/hangman-0.svg" alt="hangman-img">
+            <h1>Hangman Spel</h1>
+        </div>
+
+        <div class="div game-box">
+            <ul class="word-display">
+
+             
+            </ul>
+
+            <h4 class="hint-text">
+                Hint:
+                <b>Lorem ipsum dolor sit amet consectetur adipisicing elit.</b>
+            </h4>
+
+            <h4 class="guesses-text">
+                Feil:
+                <b>0/6</b>
+            </h4>
+
+            <div class="keyboard">      </div>
+
+
+        </div>
+
+    </div>
+
 
 
 </body>
