@@ -96,7 +96,7 @@ const wordList =  [
         hint: "Ein tredimensjonal kunstform skapt ved å forme eller kombinere materialar."
     },
     {
-        word: "symphony",
+        word: "symfoni",
         hint: "Ein lang musikalsk komposisjon for eit fullt orkester, typisk i fleire bevegelsar. "
     },
     {
@@ -148,115 +148,115 @@ const wordList =  [
         hint: " Ein einheit som brukes til å overføre lyd over lange avstander."
     },
     {
-        word: "language",
-        hint: "A system of communication consisting of words, gestures, and syntax."
+        word: "språk",
+        hint: "Evnen til å produsere og forstå ytringer som formidler informasjon fra eitt individ til eit annet."
     },
     {
-        word: "desert",
-        hint: "A barren or arid land with little or no precipitation."
+        word: "ørken",
+        hint: "Eit landskap eller ein region som får veldig lite nedbør."
     },
     {
-        word: "sunflower",
-        hint: "A tall plant with a large yellow head."
+        word: "solsikke",
+        hint: "Ein høg plante med eit stort gult hovud."
     },
     {
-        word: "fantasy",
-        hint: "A genre of imaginative fiction involving magic and supernatural elements."
+        word: "fantasi",
+        hint: "Det å forestille seg noke som ikkje er sant eller ekta."
     },
     {
-        word: "telescope",
-        hint: "An optical instrument used to view distant objects in space."
+        word: "teleskop",
+        hint: "Eit optisk instrument som brukes til å sjå fjerne objekter i rommet."
     },
     {
-        word: "breeze",
-        hint: "A gentle wind."
+        word: "bris",
+        hint: "Ein mild vind."
     },
     {
-        word: "oasis",
-        hint: "A fertile spot in a desert where water is found."
+        word: "oase",
+        hint: "Ein fruktbar stad i ein ørken kor det finnes vatn."
     },
     {
-        word: "photography",
-        hint: "The art, process, or practice of creating images by recording light or other electromagnetic radiation."
+        word: "fotografering",
+        hint: "Kunsten, prosessen eller praksisen med å lage bilder ved å registrere lys eller annen elektromagnetisk stråling."
     },
     {
         word: "safari",
-        hint: "An expedition or journey, typically to observe wildlife in their natural habitat."
+        hint: "Ein ekspedisjon eller reise, vanlegvis for å observere dyrelivet i deiras naturlege habitat."
     },
     {
         word: "planet",
-        hint: "A celestial body that orbits a star and does not produce light of its own."
+        hint: "Eit himmellegeme som går i bane rundt ei stjerne og ikkje produserer eiget lys."
     },
     {
-        word: "river",
-        hint: "A large natural stream of water flowing in a channel to the sea, a lake, or another such stream."
+        word: "elv",
+        hint: "Ein stor naturleg vannstrøm som renner i ein kanal til havet, ein innsjø eller ein annen lignande bekk."
     },
     {
-        word: "tropical",
-        hint: "Relating to or situated in the region between the Tropic of Cancer and the Tropic of Capricorn."
+        word: "tropisk",
+        hint: "Eit ikkje-tørt klima som er varmt"
     },
     {
-        word: "mysterious",
-        hint: "Difficult or impossible to understand, explain, or identify."
+        word: "mystisk",
+        hint: "Vanskeleg eller umulig å forstå, forklare eller identifisera."
     },
     {
-        word: "enigma",
-        hint: "Something that is mysterious, puzzling, or difficult to understand."
+        word: "gåte",
+        hint: "Noke som er mystisk, forvirrande eller vanskeleg å forstå."
     },
     {
-        word: "paradox",
-        hint: "A statement or situation that contradicts itself or defies intuition."
+        word: "paradoks",
+        hint: "Eit utsagn eller ein situasjon som motseier seg sjølv eller trosser intuisjon."
     },
     {
-        word: "puzzle",
-        hint: "A game, toy, or problem designed to test ingenuity or knowledge."
+        word: "puslespel",
+        hint: "Eit spel, leka eller problem utvikla for å testa oppfinnsomheit eller kunnskap."
     },
     {
-        word: "whisper",
-        hint: "To speak very softly or quietly, often in a secretive manner."
+        word: "Kviskre",
+        hint: "Å snakka veldig lavt eller stille, ofta på ein hemmelegheitsfull måte."
     },
     {
-        word: "shadow",
-        hint: "A dark area or shape produced by an object blocking the light."
+        word: "skygge",
+        hint: "Eit mørkt område eller form produsert av ein gjenstand som blokkerer lyset."
     },
     {
-        word: "secret",
-        hint: "Something kept hidden or unknown to others."
+        word: "hemmeleg",
+        hint: "Noke holdt skjult eller ukjent for andre."
     },
     {
-        word: "curiosity",
-        hint: "A strong desire to know or learn something."
+        word: "nysgjerrigheit",
+        hint: "Eit sterkt ønske om å veta eller lære noke."
     },
     {
-        word: "unpredictable",
-        hint: "Not able to be foreseen or known beforehand; uncertain."
+        word: "uforutsigbar",
+        hint: "Ikkje mulig å forutsjå eller kjent på forhånd; usikker."
     },
     {
-        word: "obfuscate",
-        hint: "To confuse or bewilder someone; to make something unclear or difficult to understand."
+        word: "Tilsløre",
+        hint: "Forvirra nokon eller å gjøre noke uklart eller vanskeleg å forstå."
     },
     {
-        word: "unveil",
-        hint: "To make known or reveal something previously secret or unknown."
+        word: "avdekke",
+        hint: "Å gjøre kjent eller avsløre noke tidligare hemmeleg eller ukjent."
     },
     {
-        word: "illusion",
-        hint: "A false perception or belief; a deceptive appearance or impression."
+        word: "illusjon",
+        hint: "Ein falsk oppfatning eller tru; eit villedande utsjånad eller inntrykk."
     },
     {
-        word: "moonlight",
-        hint: "The light from the moon."
+        word: "måneskinn",
+        hint: "Lyset fra månen."
     },
     {
-        word: "vibrant",
-        hint: "Full of energy, brightness, and life."
+        word: "levende",
+        hint: "Full av energi, lysstyrke og liv."
     },
     {
-        word: "nostalgia",
-        hint: "A sentimental longing or wistful affection for the past."
+        word: "nostalgi",
+        hint: "Ein sentimental lengsel eller vemodig hengivenhet for fortida."
     },
     {
-        word: "brilliant",
-        hint: "Exceptionally clever, talented, or impressive."
+        word: "strålande",
+        hint: "Eksepsjonelt smart, talentfull eller imponerande."
     },
 ];

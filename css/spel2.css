@@ -1,0 +1,17 @@
+/*
+html {
+    height: 100%;
+    width: auto;
+    margin: 0;
+    background-image: url("../img/bgg-fixed.jpg");
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size:cover;
+  }
+*/
+
+html {
+    background: url("../img/bgg-fixed.jpg") no-repeat center fixed;
+    background-size: cover;
+
+}

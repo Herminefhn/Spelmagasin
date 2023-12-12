@@ -1,6 +1,6 @@
   
-    .skrift {
-        color: rgba(7, 7, 65, 0.755);
+.skrift {
+        color: rgba(6, 6, 51, 0.782);
          text-align: center;
          margin-top: 200px;
          font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -9,3 +9,31 @@
 
 
 
+
+    .topnav { 
+        background-color: #F0F4EF;
+        overflow: hidden;
+        text-align: center;
+        margin: auto;
+        padding: 15px;
+        width: fit-content;
+        border-radius: 25px;
+        padding-left: 45px;
+        padding-right: 45px;
+      }
+      
+      .topnav a { 
+        color: #0D1821;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+        border-radius: 25px;
+      }
+      
+      .topnav a.active {    
+        background-color: rgba(6, 6, 51, 0.782);
+        color: white;
+        padding-left:42.5px;
+        padding-right: 42.5px;
+      }

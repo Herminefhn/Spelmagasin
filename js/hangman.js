@@ -66,7 +66,7 @@ const initGame = (button, clickedLetter) => {
 
 
 
-//tastatur knappar, fant ikkje ut av kossen eg kunne ha med æøå :(  (+ "event listeners" idk ka da e)
+//tastatur knappar
 for (let i = 97; i <= 122; i++) {
     const button = document.createElement("button");
     button.innerText = String.fromCharCode(i);
@@ -75,5 +75,32 @@ for (let i = 97; i <= 122; i++) {
 
 }
 
+
+// Setter inn æ
+const button = document.createElement("button");
+button.innerText = String.fromCharCode(230);
+keyboardDiv.appendChild(button);
+button.addEventListener("click", e => initGame(e.target, String.fromCharCode(230)));
+
+// Setter inn ø
+const button2 = document.createElement("button");
+button2.innerText = String.fromCharCode(248);
+keyboardDiv.appendChild(button2);
+button2.addEventListener("click", e => initGame(e.target, String.fromCharCode(248)));
+
+// Setter inn å
+const button3 = document.createElement("button");
+button3.innerText = String.fromCharCode(229);
+keyboardDiv.appendChild(button3);
+button3.addEventListener("click", e => initGame(e.target, String.fromCharCode(229)));
+
+
+
 getRandomWord();
 playAgainBtn.addEventListener("click", getRandomWord);
+
+/*
+E6 - 230
+F8 - 248
+E5 - 229
+*/
