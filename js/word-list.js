@@ -104,7 +104,7 @@ const wordList =  [
         hint: "Kunsten og vitenskapen om å designe og konstruere bygningar."
     },
     {
-        word: "ballet",
+        word: "ballett",
         hint: "Ein klassisk danseform prega av presise og grasiøse bevegelsar."
     },
     {
